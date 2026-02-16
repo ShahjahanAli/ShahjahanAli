@@ -62,8 +62,8 @@ multi-tenant SaaS platforms, and high-performance distributed systems.
 
 ## GitHub Performance
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShahjahanAli&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahjahanAli&layout=compact&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=automate-systech&show_icons=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=automate-systech&layout=compact&hide_border=true)
 
 ---
 
